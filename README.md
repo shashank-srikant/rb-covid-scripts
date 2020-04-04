@@ -1,4 +1,4 @@
-`./data/` contains raw location data scraped from http://nd.solveninja.org/
+`./data/` contains raw location data scraped from http://nd.solveninja.org/. Data as of 7AM, 5 April, IST.
 
 `./output/` contains data processed  from `./data/` and converted to GeoJSONs.
 
