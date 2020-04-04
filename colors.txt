@@ -1,0 +1,8 @@
+{
+    "1_citizen_ease": "#ff3333",
+    "1_medical_services": "#ff8000",
+    "1_people_needing_help": "#4d79ff",
+    "1_places_supporting_needy": "#66cc66",
+    "1_social_distancing": "#e6e60",
+    "1_volunteer": "#cc00ff"
+}
